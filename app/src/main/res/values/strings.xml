@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DayOrNight</string>
+    <string name="night_theme">夜间主题</string>
+</resources>

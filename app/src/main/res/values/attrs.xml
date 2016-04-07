@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="itemViewTextColor" format="reference|color"></attr>
+    <attr name="itemViewBackground" format="reference|color"></attr>
+    <attr name="checkTextColor" format="reference|color"></attr>
+    <attr name="layoutBackground" format="reference|color"></attr>
+    <attr name="labelTextColor" format="reference|color"></attr>
+    <attr name="valueTextColor" format="reference|color"></attr>
+</resources>
